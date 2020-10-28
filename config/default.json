@@ -1,0 +1,4 @@
+{
+    "mongoURI" :"mongodb+srv://thao123:thao123@devconnector.dyame.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret" : "bluesky"
+}
