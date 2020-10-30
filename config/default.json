@@ -1,4 +1,7 @@
 {
     "mongoURI" :"mongodb+srv://thao123:thao123@devconnector.dyame.mongodb.net/<dbname>?retryWrites=true&w=majority",
-    "jwtSecret" : "bluesky"
+    "jwtSecret" : "bluesky",
+    "githubClientId": "50b4b2c2404373c4ea59",
+    "githubSecret" :"f389e694a9b28b0e023be3a24d4678059f3c1eba"
+    
 }
